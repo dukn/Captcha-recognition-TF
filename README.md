@@ -61,7 +61,7 @@ It's so easy!
 
 ## Running the tests
 
-Generated Captchas and put them at `./Captcha/lv1/` and lable at `./Captcha/pass1.txt`.
+Generated Captchas and put them at `./Captcha/lv3/` and lable at `./Captcha/pass3.txt`.
 
 Train model by run `training_captcha.py`:
 ```
